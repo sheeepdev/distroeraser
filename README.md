@@ -16,7 +16,7 @@ This script erases your drive to get it ready for a new OS/distro!
 
 I made this script for my ThinkPad which I distrohop on often.
 
-Requirements:
+Requirements: \
 `figlet` \
 `dd` \
 `bash`
