@@ -21,8 +21,8 @@ Requirements: \
 [`dd`](https://repology.org/project/coreutils/versions) \
 [`bash`](https://repology.org/project/bash/versions)
 
-***Note:
+**Note**:
 `/dev/sda` is the default disk specified in the script and you will probably need to change it! I'm gonna introduce automatically choosing a disk later \
-***Warning:
+**Warning**:
 I am not responsible for any system erasing. DO THIS AT YOUR OWN RISK!
 
