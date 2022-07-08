@@ -22,7 +22,7 @@ Requirements: \
 [`bash`](https://repology.org/project/bash/versions)
 
 > **Note**
-> `/dev/sda` is the default disk specified in the script and you will probably need to change it! I'm gonna introduce automatically choosing a disk later \
+> `/dev/sda` is the default disk specified in the script and you will probably need to change it! I'm gonna introduce automatically choosing a disk later
 
 > **Warning**
 > I am not responsible for any system erasing. DO THIS AT YOUR OWN RISK!
