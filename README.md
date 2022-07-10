@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/distroeraser.png)
 
 This script erases your drive to get it ready for a new OS/distro!
 
