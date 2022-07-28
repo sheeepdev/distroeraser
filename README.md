@@ -9,6 +9,8 @@ Requirements: \
 [`dd`](https://repology.org/project/coreutils/versions) \
 [`bash`](https://repology.org/project/bash/versions)
 
+`dd` and `bash` are installed on every system, but I have included figlet in a `requirements.sh` script for your convinience
+
 > **Note** \
 > `/dev/sda` is the default disk specified in the script and you will probably need to change it! I'm gonna introduce automatically choosing a disk later
 
