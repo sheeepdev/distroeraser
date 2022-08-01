@@ -5,7 +5,7 @@ This script erases your drive to get it ready for a new OS/distro!
 I made this script for my ThinkPad which I distrohop on often.
 
 Demo: \
-<img src="assets/demo.gif" alt="Shell running the distroeraser script" />
+<img src="assets/demo.mp4" alt="Shell running the distroeraser script" />
 
 Requirements: \
 [`gum`](https://github.com/charmbracelet/gum#installation) \
