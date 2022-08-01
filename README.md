@@ -5,7 +5,7 @@ This script erases your drive to get it ready for a new OS/distro!
 I made this script for my ThinkPad which I distrohop on often.
 
 Demo: \
-<a href="https://asciinema.org/a/QVpWkGwBHbtNueY5Q0z2QtoJJ" target="_blank"><img src="https://asciinema.org/a/QVpWkGwBHbtNueY5Q0z2QtoJJ.svg" /></a>
+<script id="asciicast-QVpWkGwBHbtNueY5Q0z2QtoJJ" src="https://asciinema.org/a/QVpWkGwBHbtNueY5Q0z2QtoJJ.js" async></script>
 
 Requirements: \
 [`gum`](https://github.com/charmbracelet/gum#installation) \
