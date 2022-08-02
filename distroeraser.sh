@@ -8,7 +8,7 @@ sleep 1
 echo "It is similar to other disk erasers but its much simpler because it uses dd"
 sleep 1
 echo "Go on and pick a disk you want to erase:"
-DISK=$(lsblk -d | tail -n+2 | awk '{print $1" "$4}' | gum choose --limit 1)
+DISK=$(lsblk -d | tail -n+2 | cut -d" " -f1 | gum choose --limit 1)
 echo "Ok, erasing disk $DISK"
 gum style \
 --foreground 210 --border normal --border-foreground 210 \
